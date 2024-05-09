@@ -13,7 +13,7 @@ Password :   ghajar
 
 
 |:-------- |:-------- |
-| user name:   | rarrrrr|
+| نام کاربری :   | rarrrrr|
 | password :    | asan123  |
 
 
