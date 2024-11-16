@@ -1,6 +1,3 @@
-
-
-
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
@@ -22,8 +19,8 @@
 
         /* استایل جدول */
         table {
-            width:50%;
-            margin: 20px auto;       
+            width: 50%;
+            margin: 20px auto;  /* این باعث وسط چین شدن جدول می‌شود */
             border-collapse: collapse;
             text-align: center;
             font-family: Arial, sans-serif;
@@ -83,6 +80,3 @@
 
 </body>
 </html>
-
-          
-
