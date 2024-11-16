@@ -22,8 +22,8 @@
 
         /* استایل جدول */
         table {
-            width:80%;
-            margin: 80px auto;       
+            width:50%;
+            margin: 20px auto;       
             border-collapse: collapse;
             text-align: center;
             font-family: Arial, sans-serif;
