@@ -22,8 +22,8 @@
 
         /* استایل جدول */
         table {
-            width: 50%;
-            margin: 20px auto;
+            width:80%;
+            margin: 80px auto;       
             border-collapse: collapse;
             text-align: center;
             font-family: Arial, sans-serif;
@@ -53,7 +53,7 @@
 </div>
 
 <!-- جدول فروش اکانت -->
-<h2 style="text-align: center;">جدول فروش اکانت V2Ray</h2>
+<h2 style="text-align: center;">V2ray جدول فروش اکانت</h2>
 <table>
     <thead>
         <tr>
