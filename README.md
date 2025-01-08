@@ -1,82 +1,40 @@
-<html lang="fa">
+<!doctype html>
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>وب‌سایت موبایل مصطفی</title>
-    <style>
-        /* استایل هدر */
-        .header {
-            text-align: center;
-            background-color: #f2f2f2;
-            padding: 10px;
-            font-size: 1.2em;
-        }
-        .header .brand {
-            font-size: 1.5em;
-            color: #28a745; /* رنگ سبز برای تمایز */
-            font-weight: bold;
-        }
-
-        /* استایل جدول */
-        table {
-            width: 50%;
-            margin: 20px auto;  /* این باعث وسط چین شدن جدول می‌شود */
-            border-collapse: collapse;
-            text-align: center;
-            font-family: Arial, sans-serif;
-            direction: rtl;
-        }
-        th, td {
-            border: 2px solid #000; /* خطوط پررنگ‌تر */
-            padding: 10px;
-            font-weight: bold; /* فونت ضخیم‌تر */
-            font-size: 18px; /* اندازه فونت بزرگ‌تر */
-        }
-        th {
-            background-color: #3f51b5; /* رنگ پررنگ‌تر برای هدر */
-            color: white;
-        }
-        tr:hover {
-            background-color: #f9f9f9;
-        }
-    </style>
+<meta charset="utf-8">
+<title>Untitled Page</title>
+<meta name="generator" content="WYSIWYG Web Builder 20 - https://www.wysiwygwebbuilder.com">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="Untitled2.css" rel="stylesheet">
+<link href="index.css" rel="stylesheet">
 </head>
 <body>
-
-<!-- هدر صفحه -->
-<div class="header">
-    <span class="brand">موبایل مصطفی</span><br>
-    کلیه خدمات تلفن همراه - 44 119 48 0935
+<div id="wb_article3LayoutGrid">
+<div id="article3LayoutGrid">
+<div class="col-1">
+<div id="wb_article3Heading" style="display:block;width:calc(100% - 100px);z-index:0;">
+<h1 id="article3Heading">Drag, Drop, and Dazzle</h1>
 </div>
-
-<!-- جدول فروش اکانت -->
-<h2 style="text-align: center;">V2ray جدول فروش اکانت</h2>
-<table>
-    <thead>
-        <tr>
-            <th>نوع اکانت</th>
-            <th>حجم</th>
-            <th>قیمت (تومان)</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>اکانت یک‌ماهه</td>
-            <td>20 گیگ</td>
-            <td>150,000</td>
-        </tr>
-        <tr>
-            <td>اکانت یک‌ماهه</td>
-            <td>30 گیگ</td>
-            <td>200,000</td>
-        </tr>
-        <tr>
-            <td>اکانت یک‌ماهه</td>
-            <td>50 گیگ</td>
-            <td>250,000</td>
-        </tr>
-    </tbody>
-</table>
-
+<div id="wb_article3Card1" style="display:flex;width:calc(100% - 100px);z-index:1;" class="card">
+<div id="article3Card1-card-body">
+<div id="article3Card1-card-item0">Built-in AI Image Generation</div>
+<div id="article3Card1-card-item1">Ditch stock photos and unleash your creativity with AI-powered image generation. Describe your desired image, and WYSIWYG Web Builder will bring it to life, saving you time and effort.</div>
+</div>
+</div>
+<div id="wb_article3Card2" style="display:flex;width:calc(100% - 100px);z-index:2;" class="card">
+<div id="article3Card2-card-body">
+<div id="article3Card2-card-item0">One-Click Publishing</div>
+<div id="article3Card2-card-item1">Skip the hassle of complex FTP configuration and third-party tools. WYSIWYG Web Builder allows you to publish your website directly to your hosting provider with just a single click, streamlining your workflow and saving valuable time.</div>
+</div>
+</div>
+<div id="wb_article3Card3" style="display:flex;width:calc(100% - 100px);z-index:3;" class="card">
+<div id="article3Card3-card-body">
+<div id="article3Card3-card-item0">Effortless Responsive Design</div>
+<div id="article3Card3-card-item1">Ensure your website looks flawless on any screen size, from desktops to tablets and smartphones. WYSIWYG Web Builder automatically optimizes your images for optimal viewing across all devices, eliminating the need for manual adjustments.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </body>
 </html>
